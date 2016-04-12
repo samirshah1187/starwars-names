@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get Random star wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirshah1187/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Samir Shah <samirshah1187@gmail.com> (http://www.samirshah.co/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samirshah1187/starwars-names/issues"
+  },
+  "homepage": "https://github.com/samirshah1187/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
